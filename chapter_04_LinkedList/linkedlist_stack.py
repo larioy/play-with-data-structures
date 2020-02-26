@@ -1,5 +1,6 @@
 from chapter_03_Stack_Queue.base import StackBase
-from chapter_03_LinkedList.linkedlist import LinkedList
+from chapter_04_LinkedList.linkedlist import LinkedList
+
 
 class LinkedListStack(StackBase):
     def __init__(self):

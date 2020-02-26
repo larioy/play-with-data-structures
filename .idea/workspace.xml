@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b18cf8c-5759-4ea9-943b-b83198736c28" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/huaweiTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huaweiTest/huaeweiTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/10两个队列实现栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/10矩形覆盖.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/10跳台阶.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/11动态跳台阶.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/11旋转有序数组最小值(二分搜索).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/12矩阵任意开始找路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/13机器人的运动范围.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/14剪绳子.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/21将一个有序数组的奇数位在前偶数为在后.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/29按顺序打印矩阵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/2二维数组中的查找(二分搜索).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/31栈的压如弹出序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/33输入一个数组判断是不是二叉树的后续序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/3数组中的重复数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/42子数组的连续最大和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/43获取连续字符串的第n位数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/45把数组排成最小数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/46把数字翻译成字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/47礼物的最大值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/48最长不重复子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/51数组中的逆序对.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/53在排序数组中查找数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/56找出双重复数组中单次的两个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/57滑动窗口的最大值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/58左旋转字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/58翻转单词序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/61扑克牌顺子.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/65不用加法实现相加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/9两个栈实现队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/find_array_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/find_repeat_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/once_nums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/psorted/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/psorted/guibinSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/psorted/insertSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/psorted/maopao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/psorted/quickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/psorted/tongpaixu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/queue_to_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/rotal_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_offer/钱币兑换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_04_LinkedList/linkedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_04_LinkedList/linkedlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_04_LinkedList/linkedlist_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_04_LinkedList/linkedlist_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_04_LinkedList/linkedlist_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_04_LinkedList/linkedlist_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_06_BST/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_06_BST/bst.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_07_Set_Map/bst_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_07_Set_Map/bst_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12_AVLTree/avl_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_12_AVLTree/avl_tree.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_08_MaxHeap/max_heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huaweiTest/huaeweiTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/point_offer/2二维数组中的查找(二分搜索).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/point_offer/3数组中的重复数字.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1121">
+              <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_04_LinkedList/linkedlist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="406" column="29" selection-start-line="406" selection-start-column="29" selection-end-line="406" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chapter_04_LinkedList/linkedlist_queue.py" />
+        <option value="$PROJECT_DIR$/chapter_04_LinkedList/linkedlist_stack.py" />
+        <option value="$PROJECT_DIR$/chapter_07_Set_Map/bst_map.py" />
+        <option value="$PROJECT_DIR$/chapter_12_AVLTree/avl_tree.py" />
+        <option value="$PROJECT_DIR$/point_offer/find_repeat_number.py" />
+        <option value="$PROJECT_DIR$/point_offer/find_array_num.py" />
+        <option value="$PROJECT_DIR$/point_offer/queue_to_stack.py" />
+        <option value="$PROJECT_DIR$/point_offer/rotal_array.py" />
+        <option value="$PROJECT_DIR$/point_offer/stack_push_pop.py" />
+        <option value="$PROJECT_DIR$/point_offer/once_nums.py" />
+        <option value="$PROJECT_DIR$/point_offer/stack_to_queue.py" />
+        <option value="$PROJECT_DIR$/point_offer/2二维数组中的查找.py" />
+        <option value="$PROJECT_DIR$/point_offer/9两个栈实现队列.py" />
+        <option value="$PROJECT_DIR$/point_offer/10两个队列实现栈.py" />
+        <option value="$PROJECT_DIR$/point_offer/10跳台阶.py" />
+        <option value="$PROJECT_DIR$/point_offer/11动态跳台阶.py" />
+        <option value="$PROJECT_DIR$/point_offer/10矩形覆盖.py" />
+        <option value="$PROJECT_DIR$/point_offer/11旋转有序数组最小值.py" />
+        <option value="$PROJECT_DIR$/point_offer/12矩阵任意开始找路径.py" />
+        <option value="$PROJECT_DIR$/point_offer/13机器人的运动范围.py" />
+        <option value="$PROJECT_DIR$/point_offer/14剪绳子.py" />
+        <option value="$PROJECT_DIR$/point_offer/按顺序打印juzhne.py" />
+        <option value="$PROJECT_DIR$/point_offer/29按顺序打印矩阵.py" />
+        <option value="$PROJECT_DIR$/point_offer/31栈的压如弹出序列.py" />
+        <option value="$PROJECT_DIR$/point_offer/33输入一个数组判断是不是二叉树的后续序列.py" />
+        <option value="$PROJECT_DIR$/point_offer/42子数组的连续最大和.py" />
+        <option value="$PROJECT_DIR$/point_offer/43获取连续字符串的第n位数.py" />
+        <option value="$PROJECT_DIR$/point_offer/45把数组排成最小数.py" />
+        <option value="$PROJECT_DIR$/point_offer/46把数字翻译成字符串.py" />
+        <option value="$PROJECT_DIR$/point_offer/47礼物的最大值.py" />
+        <option value="$PROJECT_DIR$/point_offer/48最长不重复子串.py" />
+        <option value="$PROJECT_DIR$/point_offer/53在排序数组中查找数字.py" />
+        <option value="$PROJECT_DIR$/chapter_06_BST/bst.py" />
+        <option value="$PROJECT_DIR$/point_offer/56找出双重复数组中单次的两个数.py" />
+        <option value="$PROJECT_DIR$/point_offer/57滑动窗口的最大值.py" />
+        <option value="$PROJECT_DIR$/point_offer/58翻转单词序列.py" />
+        <option value="$PROJECT_DIR$/point_offer/58左旋转字符串.py" />
+        <option value="$PROJECT_DIR$/point_offer/61扑克牌顺子.py" />
+        <option value="$PROJECT_DIR$/point_offer/65不用加法实现相加.py" />
+        <option value="$PROJECT_DIR$/point_offer/3数组中的重复数字.py" />
+        <option value="$PROJECT_DIR$/point_offer/51数组中的逆序对.py" />
+        <option value="$PROJECT_DIR$/chapter_08_MaxHeap/max_heap.py" />
+        <option value="$PROJECT_DIR$/point_offer/21将一个有序数组的奇数位在前偶数为在后.py" />
+        <option value="$PROJECT_DIR$/point_offer/钱币兑换.py" />
+        <option value="$PROJECT_DIR$/point_offer/psorted/maopao.py" />
+        <option value="$PROJECT_DIR$/point_offer/psorted/insertSort.py" />
+        <option value="$PROJECT_DIR$/point_offer/psorted/quickSort.py" />
+        <option value="$PROJECT_DIR$/point_offer/psorted/guibinSort.py" />
+        <option value="$PROJECT_DIR$/point_offer/psorted/tongpaixu.py" />
+        <option value="$PROJECT_DIR$/huaweiTest/huaeweiTest.py" />
+        <option value="$PROJECT_DIR$/chapter_04_LinkedList/linkedlist.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/play-with-data-structures.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1284" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="play-with-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="play-with-data-structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="play-with-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="play-with-data-structures" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_04_LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.huaeweiTest">
+    <configuration name="guibinSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="play-with-data-structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/point_offer/psorted" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/point_offer/psorted/guibinSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="huaeweiTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="play-with-data-structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/huaweiTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huaweiTest/huaeweiTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insertSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="play-with-data-structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/point_offer/psorted" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/point_offer/psorted/insertSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="play-with-data-structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/point_offer/psorted" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/point_offer/psorted/quickSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tongpaixu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="play-with-data-structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/point_offer/psorted" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/point_offer/psorted/tongpaixu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.huaeweiTest" />
+        <item itemvalue="Python.tongpaixu" />
+        <item itemvalue="Python.guibinSort" />
+        <item itemvalue="Python.quickSort" />
+        <item itemvalue="Python.insertSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b18cf8c-5759-4ea9-943b-b83198736c28" name="默认更改列表" comment="" />
+      <created>1579064040698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579064040698</updated>
+      <workItem from="1579064042305" duration="8680000" />
+      <workItem from="1579524512906" duration="26345000" />
+      <workItem from="1580012731640" duration="107724000" />
+      <workItem from="1581060137416" duration="7103000" />
+      <workItem from="1581257767236" duration="7142000" />
+      <workItem from="1581391611541" duration="696000" />
+      <workItem from="1581421501407" duration="3359000" />
+      <workItem from="1581672994245" duration="2602000" />
+      <workItem from="1582108728318" duration="1200000" />
+      <workItem from="1582373715818" duration="937000" />
+      <workItem from="1582515222111" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="166402000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1203" height="784" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26771653" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3276923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32923076" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3276923" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22572179" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3276923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3276923" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/point_offer/find_repeat_number.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/point_offer/find_repeat_number.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/point_offer/33输入一个数组判断是不是二叉树的后续序列.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/point_offer/43获取连续字符串的第n位数.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/huaweiTest/huaeweiTest.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/play_with_data_structures$33.coverage" NAME="33输入一个数组判断是不是二叉树的后续序列 Coverage Results" MODIFIED="1580618104771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$21.coverage" NAME="21将一个有序数组的奇数位在前偶数为在后 Coverage Results" MODIFIED="1580790474905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$53.coverage" NAME="53在排序数组中查找数字 Coverage Results" MODIFIED="1580700789566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$45.coverage" NAME="45把数组排成最小数 Coverage Results" MODIFIED="1580629814843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$43n.coverage" NAME="43获取连续字符串的第n位数 Coverage Results" MODIFIED="1580623274352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$48.coverage" NAME="48最长不重复子串 Coverage Results" MODIFIED="1580650695684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$bst.coverage" NAME="bst Coverage Results" MODIFIED="1580708643944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_06_BST" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$13.coverage" NAME="13机器人的运动范围 Coverage Results" MODIFIED="1580539612180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$51.coverage" NAME="51数组中的逆序对 Coverage Results" MODIFIED="1580790230078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$find_array_num.coverage" NAME="find_array_num Coverage Results" MODIFIED="1579581691699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$huaeweiTest.coverage" NAME="huaeweiTest Coverage Results" MODIFIED="1581561269435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huaweiTest" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$10.coverage" NAME="10矩形覆盖 Coverage Results" MODIFIED="1580529038658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$42.coverage" NAME="42子数组的连续最大和 Coverage Results" MODIFIED="1580620758760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$12.coverage" NAME="12矩阵任意开始找路径 Coverage Results" MODIFIED="1580532450044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$rotal_array.coverage" NAME="rotal_array Coverage Results" MODIFIED="1580012920392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$once_nums.coverage" NAME="once_nums Coverage Results" MODIFIED="1580271896636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$3.coverage" NAME="3数组中的重复数字 Coverage Results" MODIFIED="1580477451591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$.coverage" NAME="钱币兑换 Coverage Results" MODIFIED="1580866409035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$queue_to_stack.coverage" NAME="queue_to_stack Coverage Results" MODIFIED="1579609006678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$linkedlist.coverage" NAME="linkedlist Coverage Results" MODIFIED="1580653776244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04_LinkedList" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$47.coverage" NAME="47礼物的最大值 Coverage Results" MODIFIED="1580634674317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$56.coverage" NAME="56找出双重复数组中单次的两个数 Coverage Results" MODIFIED="1580709213744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$find_repeat_number.coverage" NAME="find_repeat_number Coverage Results" MODIFIED="1579582123234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$65.coverage" NAME="65不用加法实现相加 Coverage Results" MODIFIED="1580720529671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$bst_map.coverage" NAME="bst_map Coverage Results" MODIFIED="1579069484467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07_Set_Map" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$14.coverage" NAME="14剪绳子 Coverage Results" MODIFIED="1580540466299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$46.coverage" NAME="46把数字翻译成字符串 Coverage Results" MODIFIED="1580632716650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$quickSort.coverage" NAME="quickSort Coverage Results" MODIFIED="1581062165221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer/psorted" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$guibinSort.coverage" NAME="guibinSort Coverage Results" MODIFIED="1581066414986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer/psorted" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$2.coverage" NAME="2二维数组中的查找 Coverage Results" MODIFIED="1580480907528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$stack_push_pop.coverage" NAME="stack_push_pop Coverage Results" MODIFIED="1580012977043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$stack_to_queue.coverage" NAME="stack_to_queue Coverage Results" MODIFIED="1580461510911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$insertSort.coverage" NAME="insertSort Coverage Results" MODIFIED="1581061047092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer/psorted" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$29.coverage" NAME="29按顺序打印矩阵 Coverage Results" MODIFIED="1580607269191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$31.coverage" NAME="31栈的压如弹出序列 Coverage Results" MODIFIED="1580613166064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$58.coverage" NAME="58左旋转字符串 Coverage Results" MODIFIED="1580714680471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$tongpaixu.coverage" NAME="tongpaixu Coverage Results" MODIFIED="1581067512900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer/psorted" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$maopao.coverage" NAME="maopao Coverage Results" MODIFIED="1581060489330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer/psorted" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$61.coverage" NAME="61扑克牌顺子 Coverage Results" MODIFIED="1580717895092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$57.coverage" NAME="57滑动窗口的最大值 Coverage Results" MODIFIED="1580712018704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+    <SUITE FILE_PATH="coverage/play_with_data_structures$11.coverage" NAME="11旋转有序数组最小值 Coverage Results" MODIFIED="1580529917686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point_offer" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/python-env/py3.6/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/rotal_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/once_nums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="85" column="39" lean-forward="true" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python-env/py3.6/Lib/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/stack_to_queue.py" />
+    <entry file="file://$PROJECT_DIR$/point_offer/9两个栈实现队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/10两个队列实现栈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/11动态跳台阶.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/10跳台阶.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/10矩形覆盖.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/11旋转有序数组最小值(二分搜索).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/12矩阵任意开始找路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1766602569/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="4118" column="24" selection-start-line="4118" selection-start-column="24" selection-end-line="4118" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/stack_push_pop.py" />
+    <entry file="file://$PROJECT_DIR$/point_offer/queue_to_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/find_array_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="68" column="15" lean-forward="true" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/find_repeat_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-407">
+          <caret line="99" column="20" lean-forward="true" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+          <folding>
+            <element signature="e#26#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/33输入一个数组判断是不是二叉树的后续序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/42子数组的连续最大和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/29按顺序打印矩阵.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/31栈的压如弹出序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/13机器人的运动范围.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/14剪绳子.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/46把数字翻译成字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/47礼物的最大值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/48最长不重复子串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_06_BST/bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="564" lean-forward="true" selection-start-line="564" selection-end-line="564" />
+          <folding>
+            <element signature="e#493#503#0" />
+            <element signature="e#14454#24519#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/56找出双重复数组中单次的两个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/57滑动窗口的最大值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/58翻转单词序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/58左旋转字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/61扑克牌顺子.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/65不用加法实现相加.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/53在排序数组中查找数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/21将一个有序数组的奇数位在前偶数为在后.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_02_Array/array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/psorted/maopao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/psorted/insertSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/psorted/quickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/psorted/guibinSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/psorted/tongpaixu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/43获取连续字符串的第n位数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/45把数组排成最小数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/钱币兑换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/51数组中的逆序对.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_08_MaxHeap/max_heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huaweiTest/huaeweiTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/2二维数组中的查找(二分搜索).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_offer/3数组中的重复数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_04_LinkedList/linkedlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="406" column="29" selection-start-line="406" selection-start-column="29" selection-end-line="406" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -127,7 +127,7 @@ class BSTMap(MapBase):
 
 if __name__ == '__main__':
     words = ''
-    with open('./chapter_07_Set_Map/shakespeare.txt', 'r') as f:
+    with open('./shakespeare.txt', 'r') as f:
         words = f.read()
     words = words.split()
 

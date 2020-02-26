@@ -36,7 +36,7 @@ class AVLTree:
                 return False
         return True
 
-    def _in_order(self, keys):
+    def _in_order(self, node, keys):
         if not node:
             return
         self._in_order(node.left, keys)

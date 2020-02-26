@@ -1,5 +1,5 @@
 from chapter_03_Stack_Queue.base import QueueBase
-from chapter_03_LinkedList.linkedlist import LinkedList
+# from chapter_03_LinkedList.linkedlist import LinkedList
 
 
 class LinkedListQueue(QueueBase):
@@ -61,7 +61,6 @@ class LinkedListQueue(QueueBase):
             curr = curr.next
         return '<chapter_03_LinkedList.linkedlist_queue.LinkedListQueue>: (Tail) ' + \
             ' <-> '.join(data) + ' (Head)'
-        
 
     def __repr__(self):
         return self.__str__()
